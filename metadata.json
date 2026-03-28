@@ -1,0 +1,7 @@
+{
+  "name": "Ascension AI",
+  "description": "AI-powered facial analysis and looksmaxing tracker. Get rated on symmetry, jawline, skin quality and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
